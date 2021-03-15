@@ -6,7 +6,36 @@
     background-size: 600px;
 
 }
+
 #Image_Booleaner{
     width: 300px;
     margin-top: 60px;
+}
+
+#Title_1{
+    color:grey;
+}
+
+#Title_2{
+    color: rgb(34, 159, 236);
+}
+
+#Title_3{
+    color: grey;
+
+}
+
+.Background_P{
+    background-color: yellow;
+}
+#Table_Head{
+    background-color: deepskyblue;
+}
+
+.Table{
+    background-color: rgb(179, 226, 255);
+}
+
+#Title_4{
+    color: grey;
 }
